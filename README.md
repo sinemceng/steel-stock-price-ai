@@ -86,7 +86,7 @@
 
 #### 📊 Veri Seti Hakkında Bilgi
 
-* Projede kullanılan fiyat verisi, **US Midwest bölgesine ait günlük çelik (HRC) fiyatlarından** oluşmaktadır. Bu veri seti, **Investing.com platformundan manuel olarak indirilmiştir**.
+* Projede kullanılan fiyat verisi, **US Midwest bölgesine ait günlük çelik (HRC) fiyatlarından** oluşmaktadır. Bu veri seti, **(https://www.investing.com/commodities/us-steel-coil-futures-historical-data) platformundan manuel olarak indirilmiştir**.
 * Veri seti günlük periyottadır ve geçmiş yıllara ait fiyat hareketlerini içermektedir.
 * Bu veriler, zaman serisi yapısını öğrenmesi amacıyla **LSTM modelinin eğitilmesinde** kullanılmıştır.
 * Ham veriler üzerinde eksik veri temizleme, normalizasyon ve ölçekleme işlemleri uygulanmıştır.
